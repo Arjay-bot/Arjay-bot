@@ -1,6 +1,6 @@
 ![Banner](https://www.mend.io/wp-content/uploads/2024/07/Robinnetts-Easter-egg-in-Atari-2600s-Adventure.png)
 
-### Hi, I am Arjay, I'm just starting to study technology now 11/7/2025 👋
+### Hi, I am Arjay, I'm just starting to study technology now 2025 👋
 
 ![arjay newbie](https://img.shields.io/badge/arjay%20newbie-purple)
 
