@@ -1,4 +1,4 @@
-![Banner](https://www.mend.io/wp-content/uploads/2024/07/Robinnetts-Easter-egg-in-Atari-2600s-Adventure.png)
+![Banner](https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif)
 
 ### Hi, I am Arjay, I'm just starting to study technology now 👋
 
