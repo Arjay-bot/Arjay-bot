@@ -27,5 +27,5 @@
 ![Arjay GitHub stats](https://github-readme-stats.vercel.app/api?username=arjay&show_icons=true&theme=dark)
 
 <p align="center">
-  2025! 💜
+ 💜
 </p>
